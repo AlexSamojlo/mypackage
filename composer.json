@@ -1,0 +1,14 @@
+{
+    "name": "alexander-samoylov/mypackage",
+    "description": "Простой пример пакета",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "MyPackage\\": "src/"
+        }
+    },
+    "require": {},
+    "minimum-stability": "dev",
+    "prefer-stable": true
+
+}
